@@ -1,0 +1,2 @@
+<h3>Información</h3>
+<p style="text-align: justify; font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae varius lectus, in viverra dui. Aenean venenatis enim dolor, eu tristique felis imperdiet ut. Aenean condimentum, magna id ultricies ultricies, nibh ex egestas leo, sed viverra erat sem ac est.</p>

@@ -1,0 +1,187 @@
+@media (max-width: 414px){
+
+	.swal2-popup{
+		width: 100%;
+	}
+	.PopupDetProd{
+		background:#fff;
+		padding: 0;
+		text-align: left;
+		max-width: 100%;
+		margin: 40px auto;
+		position: relative;
+		box-sizing: border-box;
+		border-radius: 4px;
+		z-index: 200;
+	}
+	
+	.PopupDetProd header{
+		left: 0;
+		width: 100%;
+	}
+
+	.contenido{
+		padding: 15px;
+	}
+
+	.sizeBtnDireccion{
+		width: 100%;
+	}
+	.altura{
+		 height: auto;
+	}
+	.user-menu .user-name{
+		overflow: visible;
+	}
+	.tablaContenedor{
+		overflow: scroll;
+		padding-top: 10px;
+	}
+
+	table.basic-table td{
+		display: revert;
+	}
+	table.basic-table td{
+		font-size: 11px;
+		line-height: normal;
+		text-align: left;
+	}
+	table.basic-table th, table.basic-table td {
+		padding: 8px 10px;
+	}
+
+	table.basic-table td{
+		border-bottom: none;
+	}
+
+	.BodyTabla{
+		padding: 15px 28px !important;
+	}
+
+	.visible-xs{
+		display: block;
+	}
+	.hidden-xs{
+		display: none;
+	}
+	.buscadorFixed{
+		position: relative;
+		width: 100%;
+		z-index: 1;
+		margin-top: auto;
+	}
+	#header{
+		background: #fff;
+	}
+	.fs-container .map-fixed #map-container{
+		height: 50vh;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		z-index: 990;
+	}
+	.fs-inner-container.map-fixed{
+		height: auto;
+	}
+	.fs-inner-container.content{
+		z-index: -1;
+		padding-top: 58vh !important;
+	}
+
+	.PosicionResultado{
+		margin-top: -220px !important;
+		background: transparent;
+		box-shadow: none !important;
+	}
+
+	.colTiendaLG{
+		width: 48%;
+		float: left;
+		margin-bottom: 30px;
+	}
+
+	.contEst{
+		margin: 0 0 20px 0;
+	}
+
+	.titTienda{
+		font-size: 18px;
+		font-weight: bold;
+		padding-top: 15px;
+	}
+
+
+	.add-listing-section{
+		padding: 0 10px 25px 10px;
+	}
+
+	.add-listing-section{
+		box-shadow: none;
+	}
+
+	
+	.colTienda{
+		width: 33%;
+		float: left;
+		margin-bottom: 30px;
+	}
+
+	.colTiendaAdd{
+		width: 48%;
+		float: left;
+		margin-bottom: 30px;
+	}
+
+	.add-listing-headline h3{
+		font-size: 14px;
+		font-weight: bold;
+	}
+
+	.col-xs-6{
+		width: 50% !important;
+	}
+	.col-xs-2{
+		width: 16% !important;
+	}
+	.col-xs-3{
+		width: 25% !important;
+	}
+	.col-xs-9{
+		width: 75% !important;
+	}
+	.col-xs-10{
+		width: 84% !important;
+	}
+	
+	table.basic-table th{
+		display: block;
+		font-size: 12px;
+		float: left;
+		padding: 8px 12px;
+	}
+	table.basic-table td{
+		padding: 8px 14px;
+	}
+
+
+}
+@media (min-width: 415px) and (max-width: 666px){
+	.tablaContenedor{
+		overflow: scroll;
+		padding-top: 10px;
+	}
+}
+
+@media (min-width: 667px) and (max-width: 812px){
+	.visible-sm{
+		display: block;
+	}
+	.hidden-sm{
+		display: none;
+	}
+	.colTienda{
+		width: 33%;
+		float: left;
+	}
+}
